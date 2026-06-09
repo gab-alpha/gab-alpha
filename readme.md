@@ -1,3 +1,4 @@
+<!-- Título centralizado -->
 <div align="center">
   <h1>G A B - A L P H A 
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/music.gif?raw=true" alt="Music" width="40" height="40" />
@@ -5,24 +6,27 @@
   <p><b>Developer & DevOps Engineer</b> | Katueté, Paraguay 🇵🇾</p>
 </div>
 
+<!-- Linha colorida -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 </p>
 
+<!-- Seção Sobre Mim -->
 <div align="center">
-  <h2>👨‍💻 Sobre Mim</h2>
+  <h2>👨‍💻 About Me</h2>
   <p>
-    Construindo pontes entre o desenvolvimento de software e a infraestrutura de alta performance. 
+    Building bridges between software development and high-performance infrastructure. 
   </p>
 </div>
 
-- 🚀 Especialista em desenvolvimento backend focado no ecossistema **C# (.NET)**, atualmente gerenciando e modernizando plataformas SAAS.
-- ⚙️ Experiência sólida em **DevOps**: administração de servidores web, configuração de **Nginx** (proxies reversos), otimização de bancos de dados **SQL Server** e gestão de domínios (incluindo o registro NIC-PY).
-- 🔒 Foco constante em segurança: implementação de certificados SSL/TLS, whitelisting de IPs e protocolos seguros de acesso remoto.
-- 💡 Gerencio ativamente a infraestrutura técnica e o ambiente de hospedagem para múltiplos clientes corporativos.
+- 🚀 Specialist in backend development focused on the **C# (.ASP NET)** ecosystem, currently managing and modernizing SaaS platforms, while experienced on using WebHook and integrations with Discord on general.
+- ⚙️ Solid experience in **DevOps**: web server administration, **Nginx** configuration (reverse proxies + load balancer), **SQL Server** database optimization, domaind managemenet, profile deploy platform.
+- 🔒 Constant focus on security: SSL/TLS certificate implementation, IP whitelisting, and secure remote access protocols.
+- 💡 Actively managing the technical infrastructure and hosting environments for multiple corporate clients while being actively worried with better infraestructure and planning.
 
 <br>
 
+<!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack & DevOps</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,10 +39,12 @@
   </a>
 </p>
 
+<!-- Linha colorida -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 </p>
 
+<!-- Estatísticas do GitHub centralizadas -->
 <h2 align="center">📊 GitHub Stats 
   <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height='32px'>
 </h2>
@@ -54,6 +60,7 @@
 
 <br>
 
+<!-- Widget com seguidores e repositórios -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img width="150px" src="https://komarev.com/ghpvc/?username=gab-alpha&style=flat&color=blue">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=gab-alpha&data=followers,repositories,stars,commits&theme=dark&title_color=000000">
@@ -61,25 +68,24 @@
 
 <br>
 
-<h2 align="center">⭐ Principais Repositórios</h2>
-<div align="center">
-  <a href="https://github.com/gab-alpha/myRPGconsole">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gab-alpha&repo=myRPGconsole&show_owner=true&theme=github_dark&bg_color=0D1117&border_color=30363D" />
-  </a>
-  <a href="https://github.com/gab-alpha/formulario_php">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gab-alpha&repo=formulario_php&show_owner=true&theme=github_dark&bg_color=0D1117&border_color=30363D" />
-  </a>
-</div>
-
-<br>
-
+<!-- Linha colorida -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 </p>
 
+<!-- Mensagem motivacional e Footer -->
 <div align="center">
   <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" style="display:inline;">
   <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" style="display:inline;">
   <br>
   <i>
-    "Nunca deixe que alguém
+    "Don't ever let somebody tell you you can't do something! <br><b>You got a dream... You gotta protect it.</b><br> People can't do somethin' themselves, they wanna tell you you can't do it.<br><b>If you want somethin', go get it. Period.</b>"
+  </i>
+  <br><br><br>
+</div>
+
+<p align="center">
+  <a href="http://jrohit.com.np" target="_blank">
+    <img alt="Coding" width="150" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+  </a>
+</p>
