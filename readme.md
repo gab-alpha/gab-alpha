@@ -79,7 +79,8 @@
   <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" style="display:inline;">
   <br>
   <i>
-    "Don't ever let somebody tell you you can't do something! <br><b>You got a dream... You gotta protect it.</b><br> People can't do somethin' themselves, they wanna tell you you can't do it.<br><b>If you want somethin', go get it. Period.</b>"
+    dc: kutoi
+    <br>gabriel.pires@sisprime.com.br</i><br>
   </i>
   <br><br><br>
 </div>
